@@ -1,0 +1,14 @@
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/models/User.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/controllers/UserController.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/response/RoleResponse.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/request/RequestDTO.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/repositories/RoleRepository.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/response/ResponseDTO.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/response/UserResponse.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/services/UserService.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/services/RoleService.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/models/Role.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/DemoApplication.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/request/Request.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/controllers/RoleController.java
+/home/baquiax/Documentos/Arquitectura/practica/src/main/java/com/example/demo/repositories/UserRepository.java

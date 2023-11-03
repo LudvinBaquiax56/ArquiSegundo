@@ -1,0 +1,4 @@
+com/example/demo/services/MascotService.class
+com/example/demo/repositories/MascotRepository.class
+com/example/demo/models/Mascot.class
+com/example/demo/controllers/MascotaController.class
